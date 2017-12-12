@@ -7,6 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		654150141FDF9D5F00293DFD /* StartGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654150131FDF9D5F00293DFD /* StartGameViewController.swift */; };
+		654150341FDFA82100293DFD /* Icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150161FDFA81B00293DFD /* Icon-20.png */; };
+		654150351FDFA82100293DFD /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150171FDFA81B00293DFD /* Icon-57.png */; };
+		654150361FDFA82100293DFD /* Icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150181FDFA81B00293DFD /* Icon-152.png */; };
+		654150371FDFA82100293DFD /* Icon-16.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150191FDFA81B00293DFD /* Icon-16.png */; };
+		654150381FDFA82100293DFD /* Icon-87.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501A1FDFA81B00293DFD /* Icon-87.png */; };
+		654150391FDFA82100293DFD /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501B1FDFA81C00293DFD /* Icon-60.png */; };
+		6541503A1FDFA82100293DFD /* Icon-167.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501C1FDFA81C00293DFD /* Icon-167.png */; };
+		6541503B1FDFA82100293DFD /* Icon-196.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501D1FDFA81C00293DFD /* Icon-196.png */; };
+		6541503C1FDFA82100293DFD /* Icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501E1FDFA81C00293DFD /* Icon-58.png */; };
+		6541503D1FDFA82100293DFD /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541501F1FDFA81C00293DFD /* Icon-72.png */; };
+		6541503E1FDFA82100293DFD /* Icon-128.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150201FDFA81C00293DFD /* Icon-128.png */; };
+		6541503F1FDFA82100293DFD /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150211FDFA81D00293DFD /* Icon-29.png */; };
+		654150401FDFA82100293DFD /* Icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150221FDFA81D00293DFD /* Icon-512.png */; };
+		654150411FDFA82100293DFD /* Icon-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150231FDFA81D00293DFD /* Icon-64.png */; };
+		654150421FDFA82100293DFD /* Icon-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150241FDFA81D00293DFD /* Icon-48.png */; };
+		654150431FDFA82100293DFD /* Icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150251FDFA81D00293DFD /* Icon-256.png */; };
+		654150441FDFA82100293DFD /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150261FDFA81E00293DFD /* Icon-1024.png */; };
+		654150451FDFA82100293DFD /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150271FDFA81E00293DFD /* Icon-100.png */; };
+		654150461FDFA82100293DFD /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150281FDFA81E00293DFD /* Icon-40.png */; };
+		654150471FDFA82100293DFD /* Icon-55.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150291FDFA81E00293DFD /* Icon-55.png */; };
+		654150481FDFA82100293DFD /* Icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502A1FDFA81E00293DFD /* Icon-80.png */; };
+		654150491FDFA82100293DFD /* Icon-180.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502B1FDFA81F00293DFD /* Icon-180.png */; };
+		6541504A1FDFA82100293DFD /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502C1FDFA81F00293DFD /* Icon-120.png */; };
+		6541504B1FDFA82100293DFD /* Icon-172.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502D1FDFA81F00293DFD /* Icon-172.png */; };
+		6541504C1FDFA82100293DFD /* Icon-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502E1FDFA81F00293DFD /* Icon-32.png */; };
+		6541504D1FDFA82100293DFD /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 6541502F1FDFA82000293DFD /* Icon-50.png */; };
+		6541504E1FDFA82100293DFD /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150301FDFA82000293DFD /* Icon-76.png */; };
+		6541504F1FDFA82100293DFD /* Icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150311FDFA82000293DFD /* Icon-114.png */; };
+		654150501FDFA82100293DFD /* Icon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150321FDFA82000293DFD /* Icon-144.png */; };
+		654150511FDFA82100293DFD /* Icon-88.png in Resources */ = {isa = PBXBuildFile; fileRef = 654150331FDFA82000293DFD /* Icon-88.png */; };
+		65C317DF1FDF2AB700E0C7F0 /* smiley-155846_640-300x300.png in Resources */ = {isa = PBXBuildFile; fileRef = 65C317DE1FDF2AB700E0C7F0 /* smiley-155846_640-300x300.png */; };
+		65C317E11FDF30D300E0C7F0 /* mok.png in Resources */ = {isa = PBXBuildFile; fileRef = 65C317E01FDF30D300E0C7F0 /* mok.png */; };
+		65C317E31FDF34F200E0C7F0 /* Bounce.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C317E21FDF34F200E0C7F0 /* Bounce.swift */; };
+		65E933BB1FDF7CB700D932B0 /* Artboard 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 65E933BA1FDF7CB600D932B0 /* Artboard 1.png */; };
+		65E933BD1FDF91D700D932B0 /* res.png in Resources */ = {isa = PBXBuildFile; fileRef = 65E933BC1FDF91D700D932B0 /* res.png */; };
+		65FC28BF1FE01C7C006AECAD /* pressstart.png in Resources */ = {isa = PBXBuildFile; fileRef = 65FC28BE1FE01C7C006AECAD /* pressstart.png */; };
 		ADBC87BD1FD97A6400AF874B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC87BC1FD97A6400AF874B /* AppDelegate.swift */; };
 		ADBC87BF1FD97A6400AF874B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBC87BE1FD97A6400AF874B /* ViewController.swift */; };
 		ADBC87C21FD97A6400AF874B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADBC87C01FD97A6400AF874B /* Main.storyboard */; };
@@ -15,6 +52,43 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		654150131FDF9D5F00293DFD /* StartGameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartGameViewController.swift; sourceTree = "<group>"; };
+		654150161FDFA81B00293DFD /* Icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-20.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-20.png"; sourceTree = SOURCE_ROOT; };
+		654150171FDFA81B00293DFD /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-57.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-57.png"; sourceTree = SOURCE_ROOT; };
+		654150181FDFA81B00293DFD /* Icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-152.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-152.png"; sourceTree = SOURCE_ROOT; };
+		654150191FDFA81B00293DFD /* Icon-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-16.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-16.png"; sourceTree = SOURCE_ROOT; };
+		6541501A1FDFA81B00293DFD /* Icon-87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-87.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-87.png"; sourceTree = SOURCE_ROOT; };
+		6541501B1FDFA81C00293DFD /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-60.png"; sourceTree = SOURCE_ROOT; };
+		6541501C1FDFA81C00293DFD /* Icon-167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-167.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-167.png"; sourceTree = SOURCE_ROOT; };
+		6541501D1FDFA81C00293DFD /* Icon-196.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-196.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-196.png"; sourceTree = SOURCE_ROOT; };
+		6541501E1FDFA81C00293DFD /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-58.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-58.png"; sourceTree = SOURCE_ROOT; };
+		6541501F1FDFA81C00293DFD /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-72.png"; sourceTree = SOURCE_ROOT; };
+		654150201FDFA81C00293DFD /* Icon-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-128.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-128.png"; sourceTree = SOURCE_ROOT; };
+		654150211FDFA81D00293DFD /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-29.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-29.png"; sourceTree = SOURCE_ROOT; };
+		654150221FDFA81D00293DFD /* Icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-512.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-512.png"; sourceTree = SOURCE_ROOT; };
+		654150231FDFA81D00293DFD /* Icon-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-64.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-64.png"; sourceTree = SOURCE_ROOT; };
+		654150241FDFA81D00293DFD /* Icon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-48.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-48.png"; sourceTree = SOURCE_ROOT; };
+		654150251FDFA81D00293DFD /* Icon-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-256.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-256.png"; sourceTree = SOURCE_ROOT; };
+		654150261FDFA81E00293DFD /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-1024.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-1024.png"; sourceTree = SOURCE_ROOT; };
+		654150271FDFA81E00293DFD /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-100.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-100.png"; sourceTree = SOURCE_ROOT; };
+		654150281FDFA81E00293DFD /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-40.png"; sourceTree = SOURCE_ROOT; };
+		654150291FDFA81E00293DFD /* Icon-55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-55.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-55.png"; sourceTree = SOURCE_ROOT; };
+		6541502A1FDFA81E00293DFD /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-80.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-80.png"; sourceTree = SOURCE_ROOT; };
+		6541502B1FDFA81F00293DFD /* Icon-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-180.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-180.png"; sourceTree = SOURCE_ROOT; };
+		6541502C1FDFA81F00293DFD /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-120.png"; sourceTree = SOURCE_ROOT; };
+		6541502D1FDFA81F00293DFD /* Icon-172.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-172.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-172.png"; sourceTree = SOURCE_ROOT; };
+		6541502E1FDFA81F00293DFD /* Icon-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-32.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-32.png"; sourceTree = SOURCE_ROOT; };
+		6541502F1FDFA82000293DFD /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-50.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-50.png"; sourceTree = SOURCE_ROOT; };
+		654150301FDFA82000293DFD /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-76.png"; sourceTree = SOURCE_ROOT; };
+		654150311FDFA82000293DFD /* Icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-114.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-114.png"; sourceTree = SOURCE_ROOT; };
+		654150321FDFA82000293DFD /* Icon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-144.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-144.png"; sourceTree = SOURCE_ROOT; };
+		654150331FDFA82000293DFD /* Icon-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-88.png"; path = "Squash Game/images/appiconmaker.co_ios/Icon-88.png"; sourceTree = SOURCE_ROOT; };
+		65C317DE1FDF2AB700E0C7F0 /* smiley-155846_640-300x300.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "smiley-155846_640-300x300.png"; sourceTree = "<group>"; };
+		65C317E01FDF30D300E0C7F0 /* mok.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mok.png; sourceTree = "<group>"; };
+		65C317E21FDF34F200E0C7F0 /* Bounce.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bounce.swift; sourceTree = "<group>"; };
+		65E933BA1FDF7CB600D932B0 /* Artboard 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Artboard 1.png"; sourceTree = "<group>"; };
+		65E933BC1FDF91D700D932B0 /* res.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = res.png; sourceTree = "<group>"; };
+		65FC28BE1FE01C7C006AECAD /* pressstart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pressstart.png; sourceTree = "<group>"; };
 		ADBC87B91FD97A6400AF874B /* Squash Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Squash Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADBC87BC1FD97A6400AF874B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ADBC87BE1FD97A6400AF874B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +109,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		654150151FDFA7D000293DFD /* icones */ = {
+			isa = PBXGroup;
+			children = (
+				654150191FDFA81B00293DFD /* Icon-16.png */,
+				654150161FDFA81B00293DFD /* Icon-20.png */,
+				654150211FDFA81D00293DFD /* Icon-29.png */,
+				6541502E1FDFA81F00293DFD /* Icon-32.png */,
+				654150281FDFA81E00293DFD /* Icon-40.png */,
+				654150241FDFA81D00293DFD /* Icon-48.png */,
+				6541502F1FDFA82000293DFD /* Icon-50.png */,
+				654150291FDFA81E00293DFD /* Icon-55.png */,
+				654150171FDFA81B00293DFD /* Icon-57.png */,
+				6541501E1FDFA81C00293DFD /* Icon-58.png */,
+				6541501B1FDFA81C00293DFD /* Icon-60.png */,
+				654150231FDFA81D00293DFD /* Icon-64.png */,
+				6541501F1FDFA81C00293DFD /* Icon-72.png */,
+				654150301FDFA82000293DFD /* Icon-76.png */,
+				6541502A1FDFA81E00293DFD /* Icon-80.png */,
+				6541501A1FDFA81B00293DFD /* Icon-87.png */,
+				654150331FDFA82000293DFD /* Icon-88.png */,
+				654150271FDFA81E00293DFD /* Icon-100.png */,
+				654150311FDFA82000293DFD /* Icon-114.png */,
+				6541502C1FDFA81F00293DFD /* Icon-120.png */,
+				654150201FDFA81C00293DFD /* Icon-128.png */,
+				654150321FDFA82000293DFD /* Icon-144.png */,
+				654150181FDFA81B00293DFD /* Icon-152.png */,
+				6541501C1FDFA81C00293DFD /* Icon-167.png */,
+				6541502D1FDFA81F00293DFD /* Icon-172.png */,
+				6541502B1FDFA81F00293DFD /* Icon-180.png */,
+				6541501D1FDFA81C00293DFD /* Icon-196.png */,
+				654150251FDFA81D00293DFD /* Icon-256.png */,
+				654150221FDFA81D00293DFD /* Icon-512.png */,
+				654150261FDFA81E00293DFD /* Icon-1024.png */,
+			);
+			path = icones;
+			sourceTree = "<group>";
+		};
+		65C317DD1FDF2A1B00E0C7F0 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				65FC28BE1FE01C7C006AECAD /* pressstart.png */,
+				654150151FDFA7D000293DFD /* icones */,
+				65E933BC1FDF91D700D932B0 /* res.png */,
+				65E933BA1FDF7CB600D932B0 /* Artboard 1.png */,
+				65C317E01FDF30D300E0C7F0 /* mok.png */,
+				65C317DE1FDF2AB700E0C7F0 /* smiley-155846_640-300x300.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
 		ADBC87B01FD97A6400AF874B = {
 			isa = PBXGroup;
 			children = (
@@ -54,9 +178,12 @@
 		ADBC87BB1FD97A6400AF874B /* Squash Game */ = {
 			isa = PBXGroup;
 			children = (
+				65C317DD1FDF2A1B00E0C7F0 /* images */,
 				ADBC87BC1FD97A6400AF874B /* AppDelegate.swift */,
+				65C317E21FDF34F200E0C7F0 /* Bounce.swift */,
 				ADBC87BE1FD97A6400AF874B /* ViewController.swift */,
 				ADBC87C01FD97A6400AF874B /* Main.storyboard */,
+				654150131FDF9D5F00293DFD /* StartGameViewController.swift */,
 				ADBC87C31FD97A6400AF874B /* Assets.xcassets */,
 				ADBC87C51FD97A6400AF874B /* LaunchScreen.storyboard */,
 				ADBC87C81FD97A6400AF874B /* Info.plist */,
@@ -123,9 +250,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				654150511FDFA82100293DFD /* Icon-88.png in Resources */,
+				654150481FDFA82100293DFD /* Icon-80.png in Resources */,
 				ADBC87C71FD97A6400AF874B /* LaunchScreen.storyboard in Resources */,
+				654150431FDFA82100293DFD /* Icon-256.png in Resources */,
+				65FC28BF1FE01C7C006AECAD /* pressstart.png in Resources */,
+				6541503C1FDFA82100293DFD /* Icon-58.png in Resources */,
+				65C317E11FDF30D300E0C7F0 /* mok.png in Resources */,
+				6541504B1FDFA82100293DFD /* Icon-172.png in Resources */,
+				65C317DF1FDF2AB700E0C7F0 /* smiley-155846_640-300x300.png in Resources */,
+				654150441FDFA82100293DFD /* Icon-1024.png in Resources */,
+				654150421FDFA82100293DFD /* Icon-48.png in Resources */,
+				654150361FDFA82100293DFD /* Icon-152.png in Resources */,
+				654150461FDFA82100293DFD /* Icon-40.png in Resources */,
+				65E933BD1FDF91D700D932B0 /* res.png in Resources */,
 				ADBC87C41FD97A6400AF874B /* Assets.xcassets in Resources */,
+				6541503F1FDFA82100293DFD /* Icon-29.png in Resources */,
 				ADBC87C21FD97A6400AF874B /* Main.storyboard in Resources */,
+				654150391FDFA82100293DFD /* Icon-60.png in Resources */,
+				654150471FDFA82100293DFD /* Icon-55.png in Resources */,
+				654150451FDFA82100293DFD /* Icon-100.png in Resources */,
+				6541504F1FDFA82100293DFD /* Icon-114.png in Resources */,
+				654150491FDFA82100293DFD /* Icon-180.png in Resources */,
+				654150341FDFA82100293DFD /* Icon-20.png in Resources */,
+				65E933BB1FDF7CB700D932B0 /* Artboard 1.png in Resources */,
+				654150351FDFA82100293DFD /* Icon-57.png in Resources */,
+				654150401FDFA82100293DFD /* Icon-512.png in Resources */,
+				6541504D1FDFA82100293DFD /* Icon-50.png in Resources */,
+				6541503A1FDFA82100293DFD /* Icon-167.png in Resources */,
+				654150371FDFA82100293DFD /* Icon-16.png in Resources */,
+				6541504C1FDFA82100293DFD /* Icon-32.png in Resources */,
+				6541503D1FDFA82100293DFD /* Icon-72.png in Resources */,
+				654150411FDFA82100293DFD /* Icon-64.png in Resources */,
+				6541504E1FDFA82100293DFD /* Icon-76.png in Resources */,
+				6541503B1FDFA82100293DFD /* Icon-196.png in Resources */,
+				6541503E1FDFA82100293DFD /* Icon-128.png in Resources */,
+				6541504A1FDFA82100293DFD /* Icon-120.png in Resources */,
+				654150501FDFA82100293DFD /* Icon-144.png in Resources */,
+				654150381FDFA82100293DFD /* Icon-87.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,8 +298,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65C317E31FDF34F200E0C7F0 /* Bounce.swift in Sources */,
 				ADBC87BF1FD97A6400AF874B /* ViewController.swift in Sources */,
 				ADBC87BD1FD97A6400AF874B /* AppDelegate.swift in Sources */,
+				654150141FDF9D5F00293DFD /* StartGameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,10 +439,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = U9URSZBRZG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Squash Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "rogerterres.Squash-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = Nidhal.Com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -290,10 +454,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = U9URSZBRZG;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Squash Game/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "rogerterres.Squash-Game";
+				PRODUCT_BUNDLE_IDENTIFIER = Nidhal.Com;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
